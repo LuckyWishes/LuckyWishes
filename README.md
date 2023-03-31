@@ -33,7 +33,7 @@
 <table>
     <tr align="center">
         <td><img src="./images/juejinlogo.svg" width="40" height="40" alt="juejinlogo" /></td>
-        <td><img src="./images/cnblogslogo.svg" width="80" height="40" alt="csdnlogo" /></td>
+        <td><img src="./images/csdnlogo.png" width="80" height="40" alt="csdnlogo" /></td>
         <td><img src="./images/bg.jpeg" width="80" height="40" alt="csdnlogo" /></td>
     </tr>
     <tr>
