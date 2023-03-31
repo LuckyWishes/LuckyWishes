@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-
+<!-- ### Hi there 👋 -->
 ### LANGUAGES AND TOOLS
 <p align="center">
 	<img src="./images/html.svg" width="40" height="40" alt="html" />
@@ -36,14 +33,13 @@
 <table>
     <tr align="center">
         <td><img src="./images/juejinlogo.svg" width="40" height="40" alt="juejinlogo" /></td>
-        <td><img src="./images/bg.png" width="80" height="40" alt="csdnlogo" /></td>
         <td><img src="./images/cnblogslogo.svg" width="80" height="40" alt="csdnlogo" /></td>
-<!--         <td rowspan="2"><img src="./images/wx.png" width="310" height="120" alt="wechat" /></td> -->
+        <td><img src="./images/bg.jpeg" width="80" height="40" alt="csdnlogo" /></td>
     </tr>
     <tr>
         <td><a href="https://juejin.cn/user/2784392994882045" target="_blank">掘金: 逆水先生</a></td>
         <td><a href=https://blog.csdn.net/qq_43710627?spm=1000.2115.3001.5343" target="_blank">CSDN: Coder GXX</a></td>
-        <td><a href="https://luckywishes.github.io/" target="_blank">个人博客: XGG&Blog</a></td>
+        <td><a href="https://luckywishes.github.io/" target="_blank">PERSON：XGG&Blog</a></td>
     </tr>
 </table>
 
