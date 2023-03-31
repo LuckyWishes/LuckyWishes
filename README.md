@@ -1,8 +1,9 @@
 <!-- ### Hi there 👋 -->
-### IT IS BEAUTIFUL FOR YOU TO SEE IT.
+## IT IS BEAUTIFUL FOR YOU TO SEE IT.
+<p align="center">
 	<img src="./images/bg.jpeg" width="40" height="40" alt="html" />
-# When you have eliminated the impossible,whatever remains ,however improbable,must be the truth.
-
+</p>
+<h1 style="color:purple">When you have eliminated the impossible,whatever remains ,however improbable,must be the truth.</h1>
 ### ABOUT ME
 - 🔭 前端开发工程师，某三线城市互联网公司，三年开发经验...
 <!-- -  -->
